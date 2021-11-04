@@ -1,0 +1,17 @@
+---
+title: "Tag 2"
+date: 2021-09-15
+---
+Zur 2. VL
+
+In der zweiten Lenveranstaltung standen die Metadatenstandarts in Bibliotheken (MARC) und die Installation und Konfiguration von Koha, einer Open-Source Software für Bibliotheken, im Vordergrund. 
+Anfangs wurde uns die Möglichkeit Jekyll zu verwenden um den Blog ein bisschen individueller zu gestalten präsentiert. Das war interessant zu erfahren, dass es unter GitHub Möglichkeiten gibt, den Blog mit einer persönlichen Note zu versehen. 
+
+Die erste Übung der Lernveranstaltung galt dem Ergänzen eines zusätzlichen Links zum Lerntagebuch. Dazu mussten einige Befehle in der Shell eingegeben werden. Ausserdem sollten noch weitere Programme über diesen Weg installiert werden. Diese wurden von Herr Lohmeier vorgestellt und sogleich vorgeführt. Mich persönlich fasziniert die Umgebung, welche die Shell einem bietet sehr. So war es, trotz einiger technischer Hürden, wieder spannend zu sehen was durch die Shell alles möglich ist. 
+Da auch die Studierenden Administratorenrechte auf ihrer virtuellen Maschine haben, wird anfangs jeweils das Benutzerpasswort abgefragt. Das ist ein Punkt in welchem sich die Arbeit in der Shell im Verglich zu anderen Kursen unterscheidet. 
+
+Über die Kommandozeile sollte nun den Link zu seinem Lerntagebuch in das gemeinsame Dokument eingefügt werden. 
+Angefangen wurde mit dem Konfigurieren von Git über die Shell. Dazu sollte eine Fork-Datei vom GitHub-Konto von Herr Lohmeier kopiert- und in die eigene Git-Umgebung eingefügt resp. geklont werden. 
+Dies wurde von Herr Meyer vorgeführt. Dank den vorgefertigten Befehlszeilen im gemeinsamen HedgeDog-Dokument konnten diese problemlos kopiert- und in der eigenen Shell eingefügt werden. Das machte die Bewältigung der Aufgabe schon wesentlich leichter. Dabei erinnerte ich mich an das Sprichwort: "Viele Wege führen nach Rom". So führt auch der Weg über die Shell zum Ziel. 
+ 
+In der Lerneinheit wurden auch Vorteile von GitHub beleuchtet. So sei der Dienst für Crowdsourcingprojekte sehr geeignet. Es ist eine einfache, unkomplizierte Plattform um Inhalte mit anderen teilen zu können
