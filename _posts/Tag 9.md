@@ -15,5 +15,7 @@ Bei diesem Themenabschnitt standen zwei aktuelle Datenmodelle für Metadaten im 
 BIBFRAME wurde 2012 auf Initiative der Library of Congress als Nachfolger von Marc 21 und MODS konzipiert und existiert seit 2016 in der neusten Version BIBFRAME 2.0. BIBFRAME basiert auf Functional Requirements for Bibliographic (FRBR) sowie Resource Description and Access (RDA) als Regelwerk- dieses wird jedoch nicht vollständig umgesetzt- und folgt Linked Data Paradigmen. Inwiefern BIBFRAME FRBR abbilden muss sorgt in Fachkreisen für Diskussionen. 
 Ziel von BIBFRAME ist, den Nutzen von Bibliothekskatalogen innerhalb wie auch ausserhalb der bibliothekarischen Community zu erhöhen.  https://www.loc.gov/bibframe/pdf/marcld-report-11-21-2012.pdf
 
+Vergleich div. Systemen- gut für Lentagebücher und eigene Meinung einbringen........
+
 Diese Vorlesung mit diesen spannendnen Themen bildete einen schönen und gelungenen Abschluss des Moduls. 
 
