@@ -1,7 +1,12 @@
+---
+title: "Schlussartikel"
+date: 2022-01-30
+---
+
 Nun ist das Modul BAIN schon an seinem Ende angelangt und viel neues, spannendes durfte entdeckt werden und ein paar Erwartungen unerfüllt bleiben. So möchte ich an dieser Stelle ein Schlussfazit über meine Erfahrungen im Modul ziehen. 
 
-Zuerst möchte ich mich auf die Punkte fokussieren, welche ich sicher in positiver errinerung behalten werde. So fand ich das Schaubild zu den Lehrinhalten, welches in den ersten Vorlesungen präsentiert wurde sehr praktisch, da es einem eine gute Übersicht über einen grossen Teil der im Modul behandelten Themen zu bewahren und sich so ohne grosse Probleme in der Materie orientieren konnte. Es diente quasi als roter Faden durchs ganze Modul hindurch. Wie in vorhergehenden Tagebucheinträgen war mir Anfangs nicht ganz klar, was dieses Schaubild eigentlich genau aussagen soll. Aber irgendwie wurde es mir immer ein Stück weit klarer und retrospektiv erinnert es mich an das folgende, häufig für Memes verwendete Bild: https://knowyourmeme.com/memes/unfinished-horse-drawing
-![0b0](https://user-images.githubusercontent.com/91735645/151678978-213f284b-ef76-493e-8fab-f49a215097d1.jpeg)
+Zuerst möchte ich mich auf die Punkte fokussieren, welche ich sicher in positiver errinerung behalten werde. So fand ich das Schaubild zu den Lehrinhalten, welches in den ersten Vorlesungen präsentiert wurde sehr praktisch, da es einem eine gute Übersicht über einen grossen Teil der im Modul behandelten Themen zu bewahren und sich so ohne grosse Probleme in der Materie orientieren konnte. Es diente quasi als roter Faden durchs ganze Modul hindurch. Wie in vorhergehenden Tagebucheinträgen war mir Anfangs nicht ganz klar, was dieses Schaubild eigentlich genau aussagen soll. Aber irgendwie wurde es mir immer ein Stück weit klarer und retrospektiv erinnert es mich an das folgende, häufig für Memes verwendete Bild: 
+(https://user-images.githubusercontent.com/91735645/151678978-213f284b-ef76-493e-8fab-f49a215097d1.jpeg)
 
 
 So war mir am Anfang noch nicht so klar, was es während des Moduls mit den einzelnen Schritten im Schaubild so auf sich hat und warum es genau so aufgebaut ist. Danach wurde das (Schau-) Bild mit jeder Vorlesung immer ein bisschen klarer- bis am Schluss seine ganze Logik zu erkennen war und die einzelnen Schritte nachvollziehen konnte. Mein Bezug auf dieses Bild soll aber keineswegs  eine Anspielung darauf sein, dass die Erläuterungen unvollständig gewesen sein sollten oder so etwas in der Art. Das pure Gegenteil ist der Fall und so ist das Bild eher als lineares Schaubild des Lernprozesses (von links nach rechts gelesen) zu verstehen. 
@@ -12,3 +17,7 @@ Als ich in die Welt der Informationswissenschaft eingestiegen bin, habe ich mich
 
 Was ich etwas vermisst hatte, war das man nie in den Code der einzelnen Systeme geschaut wurde. Das ist aber halb so schlimm- denn das sollte ja auch so mal bei Open-Source Systemen ausserhalb der Vorlesung der Fall sein. 
 Mehr Systeme zeigen und vergleichen? 
+
+Quellen: 
+Bild: https://knowyourmeme.com/memes/unfinished-horse-drawing
+![0b0]
