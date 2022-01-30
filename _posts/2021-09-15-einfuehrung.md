@@ -17,8 +17,9 @@ Was ich an dem Kurs toll finde ist, dass es eine gute Gelegenheit ist weitere Er
 So were ich neben diesem Einführungsartikel zu jeder Vorlesung sowie zu jeder Übung einen Beitrag verfassen.Dieser dekt nicht alle besprochenen Punkte resp. einzeilen Arbeitschritte im Detail ab und es ist auch nicht zu erwarten.
 
 Nun stürze ich mich voller Elan in die Materie der Bibliotheks und Archivsinformatik und bin gespannt, wohin die Reise führt! 
-![Unknown-1](https://user-images.githubusercontent.com/91735645/151695033-014f2f6d-2aef-41fe-abc6-ef517fccdfa1.jpeg)
+![fef8a856c10adaaa390c0e8863e9f39c](https://user-images.githubusercontent.com/91735645/151708927-51273781-a2d4-47ee-8ec9-fb4292c224b8.jpg)
 
-Euch wünsche ich viel Spass bei der Lektüre! 
 
-Quelle Gif: https://tenor.com/search/fox-diving-into-snow-gifs
+Ihnen wünsche ich viel Spass bei der Lektüre! 
+
+Quelle: https://www.pinterest.ch/pin/315533517648624375/
