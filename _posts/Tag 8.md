@@ -1,4 +1,5 @@
 Lernveranstaltung No. 08
+
 In dieser Vorlesung standen die Suchmaschinen und Discoverysysteme im Mittelpunkt und führte alle vorhergehenden Themen zusammen. Da man jetzt am Schluss des anfangs präsentierten Schaubild steht sollte man nun in der Lage sein das ganze Schaubild von Anfang bis Schluss in allen möglichen Einzelheiten zu erklären Dies stellte für mich persönlich ein bisschen der Höhepunkt dieser Vorlesung dar.
 
 Was mich hinsichtlich meines letzten Lerntagebucheintrags irgendwie positiv überrascht hat, ist das in dieser Lerneinheit im Rahmen eines Nachtrags zu OpenRefine auch das Landesarchiv Baden-Württemberg genannt wurde. Das bestätigte mir, dass ich damit eine gute Quelle gefunden und somit eine solide Argumentationsgrundlage habe. Ich hoffe, ich liege damit nicht falsch :)
