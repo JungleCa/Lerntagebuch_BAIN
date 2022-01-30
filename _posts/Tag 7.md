@@ -1,4 +1,6 @@
-In dieser Lerneinheit stand wie auch schon in der vorhergehenden das Thema "Metadaten modellieren und Schnittstellen nutzen" resp. deren Export und zusammenführen in eine gemeinsame Oberfläche (System) stand in dieser sowie auch in der nachfolgenden Lerneinheit im Vordergrund. Es waren aber andere Schwerpunkte, die dieses Mal im Mittelpunkt stehen:
+Lernverantstaltung No. 08
+
+In dieser Lerneinheit stand wie auch schon in der vorhergehenden das Thema "Metadaten modellieren und Schnittstellen nutzen" resp. deren Export und zusammenführen in eine gemeinsame Oberfläche (System) stand in dieser sowie auch in der nachfolgenden Lerneinheit im Vordergrund. Es waren aber andere Schwerpunkte, die dieses Mal im Mittelpunkt stehen und zwar folgende:
 -Transformation von Metadaten mit OpenRefine
 -Weitere Tools zur Metadatentransformation
 -Nutzung von JSON-APIs
@@ -19,7 +21,8 @@ Für tabellarische Daten sprich CSV, TSV, XLS, XLSX sowie TXT ist OpenRefine bes
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/91735645/151656272-6774816c-3e02-4cb8-9113-2ac93605beed.png">
 
  
-Quelle: https://fdmlab.landesarchiv-bw.de/post/2021-12-gemeinsam-an-openrefine-projekten-arbeiten/
+Quellen: https://fdmlab.landesarchiv-bw.de/post/2021-12-gemeinsam-an-openrefine-projekten-arbeiten/, Unterrichtunterlagen
+
 Diese Unterrichtslektion war wieder mal ein gutes Beispiel, wie vielfältig und Faszinierend die Bibliotheks- und Archivsinformatik ist. 
 
 
