@@ -19,6 +19,6 @@ So were ich neben diesem Einf체hrungsartikel zu jeder Vorlesung sowie zu jeder �
 Nun st체rze ich mich voller Elan in die Materie der Bibliotheks und Archivsinformatik und bin gespannt, wohin die Reise f체hrt! 
 ![Unknown-1](https://user-images.githubusercontent.com/91735645/151695033-014f2f6d-2aef-41fe-abc6-ef517fccdfa1.jpeg)
 
-Euch w체nsche ich viele Spass bei der Lekt체re! 
+Euch w체nsche ich viel Spass bei der Lekt체re! 
 
 Quelle Gif: https://tenor.com/search/fox-diving-into-snow-gifs
