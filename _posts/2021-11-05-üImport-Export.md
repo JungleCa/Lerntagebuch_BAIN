@@ -1,8 +1,8 @@
 ---
-title: "ü1"
-date: 2022-01-30
+title: "üImport-Export"
+date: 2021-11-05
 ---
-Übung ArchiveSpace
+Übung Import-Export
 
 Um auch praktische Erfahrung mit Archivsystemen zu sammeln wurden wir damit beauftragt eine Aufgabe zu erfüllen, in welcher wir uns mit dem Import von Daten in Archivespace befassten sollten. Anschliessend gab es noch eine Aufgabe zu erfüllen, in welcher es um den Export von Daten aus Archivespace ging.
 
