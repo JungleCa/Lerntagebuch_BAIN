@@ -1,5 +1,5 @@
 ---
-title: "Tag 7"
+title: "Lernverantstaltung No. 07"
 date: 2021-12-03
 ---
 
