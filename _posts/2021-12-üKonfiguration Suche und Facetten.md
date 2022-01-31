@@ -1,6 +1,6 @@
 ---
 title: "üFacetten"
-date: 2022-01-30
+date: 2021-12-03
 ---
 
 Übung - Konfiguration Suche und Facetten
