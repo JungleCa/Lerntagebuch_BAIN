@@ -1,5 +1,5 @@
 ---
-title: "Tag 8"
+title: "Lernveranstaltung No. 08"
 date: 2021-12-17
 ---
 
