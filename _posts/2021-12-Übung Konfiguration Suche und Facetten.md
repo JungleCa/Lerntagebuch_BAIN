@@ -1,5 +1,5 @@
 ---
-title: "üFacetten"
+title: "Übung Facetten"
 date: 2021-12-03
 ---
 
