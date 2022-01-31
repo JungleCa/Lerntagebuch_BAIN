@@ -1,9 +1,9 @@
 ---
-title: "Lernverantstaltung No. 07"
+title: "Lernveranstaltung No. 07"
 date: 2021-12-03
 ---
 
-Lernverantstaltung No. 07
+Lernveranstaltung No. 07
 
 In dieser Lerneinheit stand wie auch schon in der vorhergehenden das Thema "Metadaten modellieren und Schnittstellen nutzen" resp. deren Export und zusammenführen in eine gemeinsame Oberfläche (System) stand in dieser sowie auch in der nachfolgenden Lerneinheit im Vordergrund. Es waren aber andere Schwerpunkte, die dieses Mal im Mittelpunkt stehen und zwar folgende:
 -Transformation von Metadaten mit OpenRefine
