@@ -1,5 +1,5 @@
 ---
-title: "Tag 3"
+title: "Lernveranstaltung No. 03"
 date: 2021-10-08
 ---
 
